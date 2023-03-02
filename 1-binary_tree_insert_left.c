@@ -8,7 +8,7 @@
  *
  * Return: If parent is NULL or an error occurs - NULL.
  *         Otherwise - a pointer to the new node.
- *  
+ *
  * Description: If parent already has a left-child, the new node
  *              takes its place and the old left-child is set as
  *              the left-child of the new node.
